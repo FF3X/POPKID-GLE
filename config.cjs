@@ -3,11 +3,11 @@ require("dotenv").config();
 
 const config = {
   // 🧠 Session & Identity
-  SESSION_ID: process.env.SESSION_ID || "Popkidmd$MLJjtNih",
+  SESSION_ID: process.env.SESSION_ID || "POPKID;;;atAVXKbS#YhgTtldccUT7ReJFuBoaZgB4XwuEyDkiUhSCET_IUIQ",
   PREFIX: process.env.PREFIX || '.',
-  BOT_NAME: process.env.BOT_NAME || "POPKID GLE",
+  BOT_NAME: process.env.BOT_NAME || "WARRIOR MDX",
   BOT: process.env.BOT || "hello 👋",
-  STATUS_READ_MSG: "👋 Hello! I saw your status.",
+  STATUS_READ_MSG: "👋 Wassup.",
   NEW_CMD: process.env.NEW_CMD || "ᴀᴅᴅᴠᴀʀ\n│ sᴜᴅᴏ\n| popkid",
   CAPTION: process.env.CAPTION || "ᴘᴏᴡᴇʀᴇᴅ by popkid",
   AUTO_STATUS_REPLY: false,
@@ -49,9 +49,9 @@ const config = {
   DELETED_MESSAGES_CHAT_ID: process.env.DELETED_MESSAGES_CHAT_ID || "254111385747@s.whatsapp.net",
 
   // 👑 Owner & Permissions
-  OWNER_NAME: process.env.OWNER_NAME || "❤️popkid🙊",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "254111385747",
-  SUDO_NUMBER: process.env.SUDO_NUMBER || "254111385747",
+  OWNER_NAME: process.env.OWNER_NAME || "❤️WARRIOR🙊",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "2347085352705",
+  SUDO_NUMBER: process.env.SUDO_NUMBER || "2347085352705",
 
   // 💚 Auto react emoji
   AUTOLIKE_EMOJI: process.env.AUTOLIKE_EMOJI || '💚',
